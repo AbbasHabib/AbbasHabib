@@ -2,15 +2,12 @@
 
 #### Je suis
 A software engineer, and technology enthusiast
-- 💻 currently working on embedded Linux c++ programs.
+- 💻 currently working on embedded Linux C++ programs.
 - 💻 worked on multiple full-stack web applications.
 - 💻 worked on Improving projects SDLC with DevOps methodologies.
 - 🌱 currently exploring modern automotive software initiatives.
 - 🌱 continuously learning ...
-- 🌱 continuously learning ...
-- 🌱 continuously learning ...
 - 📨 youssef2abbas@gmail.com
-<br>
 
 <h1 align="center"> Contact Me 🙋‍♂️ </h1>
 
