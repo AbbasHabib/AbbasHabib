@@ -2,12 +2,16 @@
 
 #### Je suis
 A software engineer, and technology enthusiast
-- 💻 currently working on embedded Linux C++ programs.
+- 💻 worked on Developing complex service oriented C++ Programs.
+- 💻 worked on Yocto project and generating customized linux images for different targets.
+- 💻 worked on FOSS analysis and risk mitigation.
 - 💻 worked on multiple full-stack web applications.
 - 💻 worked on Improving projects SDLC with DevOps methodologies.
-- 🌱 currently exploring modern automotive software initiatives.
 - 🌱 continuously learning ...
 - 📨 youssef2abbas@gmail.com
+
+Take a look at my graduation projects 👀 we won first place at Valeo for this project 🥇:
+https://github.com/Vehicle-Telematics-Control-Unit
 
 <h1 align="center"> Contact Me 🙋‍♂️ </h1>
 
