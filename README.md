@@ -10,8 +10,12 @@ A software engineer, and technology enthusiast
 - 🌱 continuously learning ...
 - 📨 youssef2abbas@gmail.com
 
-Take a look at my graduation projects 👀 we won first place at Valeo for this project 🥇:
-https://github.com/Vehicle-Telematics-Control-Unit
+#
+
+Take a look at my graduation projects 👀
+This project won **1st** place at Valeo 🥇
+
+➡➡ https://github.com/Vehicle-Telematics-Control-Unit
 
 <h1 align="center"> Contact Me 🙋‍♂️ </h1>
 
