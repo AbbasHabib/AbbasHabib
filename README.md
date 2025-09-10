@@ -15,7 +15,7 @@ A software engineer, and technology enthusiast
 Take a look at my graduation projects 👀
 This project won **1st** place at Valeo 🥇
 
-➡➡ https://github.com/Vehicle-Telematics-Control-Unit
+➡➡ https://github.com/Vehicle-Telematics-Control-Unit ⬅⬅
 
 <h1 align="center"> Contact Me 🙋‍♂️ </h1>
 
