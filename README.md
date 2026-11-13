@@ -1,26 +1,49 @@
-<h1 align="center">Holla, mi amigo 💙</h1>
+# Hi, I'm Abbas Habib 👋
 
-#### Je suis
-A software engineer, and technology enthusiast
-- 💻 worked on Developing complex service oriented C++ Programs.
-- 💻 worked on Yocto project and generating customized linux images for different targets.
-- 💻 worked on FOSS analysis and risk mitigation.
-- 💻 worked on multiple full-stack web applications.
-- 💻 worked on Improving projects SDLC with DevOps methodologies.
-- 🌱 continuously learning ...
-- 📨 youssef2abbas@gmail.com
+**Systems Software Engineer** building secure, production-grade systems.
 
-#
+⚡ Interested in anything that runs on electricity, from a kernel driver to a React button. Show me the project and I'll help build it, break it, or debug it.
 
-Take a look at my graduation projects 👀
-This project won **1st** place at Valeo 🥇
+🤖 **AI-powered development:** I make codebases AI-agent-ready and use coding agents for development and code reviews.
 
-➡➡ https://github.com/Vehicle-Telematics-Control-Unit ⬅⬅
+---
 
-<h1 align="center"> Contact Me 🙋‍♂️ </h1>
+## 💼 What I do
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/youssef-abbas-habib-8135b61b5/" target="_blank"> <img alt="Youssef Abbas | LinkedIn" width="120px"  height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+- **Hitachi Rail** (current): Software for revenue collection devices on embedded Linux and Android (PAX A920 Pro).
+  `C++` `Yocto` `Qt/QML` `MQTT` `gRPC` `DESFire` `Conan` `Jenkins`
+- **Valeo** (previous): Software for the Mercedes-Benz Telematics Control Unit (TCU), shipped through the production phase.
+  `C++` `SOME/IP` `SELinux` `SECCOMP` `cgroups` `ASPICE`
 
-  <a href="mailto:youssef2abbas@gmail.com" target="_blank"> <img alt="Youssef Abbas | Gmail" width="100px"  height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </div>
+## 🏆 Highlights
+
+- **1st place, Valeo Tech Talents Day:** a Telematics Control Unit for Software-Defined Vehicles, built from containerized SOME/IP services, ECU and backend gateways, and a mobile companion app.
+  👉 [Vehicle-Telematics-Control-Unit](https://github.com/Vehicle-Telematics-Control-Unit)
+
+## 🛠️ Tech stack
+
+**Languages:** C++ · C · Python · Bash
+
+**Platforms:** Linux · Yocto · Android · Qt/QML
+
+**Communication:** SOME/IP · MQTT · gRPC
+
+**Security:** SELinux · SECCOMP · cgroups
+
+**Tools:** CMake · Conan · Docker · Jenkins · gdb · perf
+
+**AI:** OpenCV · TensorFlow · LangChain
+
+## 🔭 Currently exploring
+
+- Rust for systems programming
+- Edge AI: running models efficiently on small hardware
+- Secure boot and OTA updates
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-habib-8135b61b5/)
+
+📧 youssef2abbas@gmail.com
+
+Got a project in mind? Let's talk.
